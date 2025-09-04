@@ -1,4 +1,4 @@
-# 🎬 Movie Performance Analysis with TMDB Data
+# Movie Performance Analysis with TMDB Data
 
 This repository contains the final project for **Big Data Technology**, focusing on the analysis of movie and TV show performance using data from the [TMDB API](https://developer.themoviedb.org/docs). The project builds a **data ingestion pipeline**, organizes the data into a **relational database**, and explores insights through **Jupyter notebooks** and **Tableau dashboards**.
 
