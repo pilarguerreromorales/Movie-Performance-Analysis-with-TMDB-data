@@ -41,19 +41,19 @@ This repository contains the final project for **Big Data Technology**, focusing
 ## Usage
 
 1. **Clone the repository**  
-   ```bash
+```bash
    git clone https://github.com/pilarguerreromorales/Movie-Performance-Analysis-with-TMDB-data.git
    cd Movie-Performance-Analysis-with-TMDB-data/big-data-technology
-  ```
+```
 
 2. **Clone the repository** 
 The dataset full_data.zip is stored with Git LFS.
 Run:
 
- ```bash
+```bash
 git lfs install
 git lfs pull
-  ```
+```
 Then extract full_data.zip inside the big-data-technology/ folder.
 
 3. Open notebooks in Jupyter
