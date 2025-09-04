@@ -12,7 +12,8 @@ This repository contains the final project for **Big Data Technology**, focusing
 - **Graphs.ipynb** – Notebook for exploratory data analysis and visualizations.  
 - **Movies_database.sql** – PostgreSQL schema and table creation.  
 - **Report.pdf** – Full project report with methodology, results, and conclusions.  
-- **.gitattributes** – Git LFS configuration.  
+- **.gitattributes** – Git LFS configuration.
+- **Genre Research.twb**- Visualizations & Dashboards created by Pilar Guerrero on the topic of Genre and story selection.
 
 ---
 
