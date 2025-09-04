@@ -72,7 +72,7 @@ Interactive dashboards were created in Tableau, covering:
 - Casting and talent performance
 - Language strategy
 
-Authors
+## Authors
 - Bernarda Andrade
 - Matias Arevalo
 - Pilar Guerrero
